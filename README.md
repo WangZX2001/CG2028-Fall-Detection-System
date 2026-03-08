@@ -8,6 +8,11 @@ Sensor data from the **accelerometer, gyroscope, and barometric pressure sensor*
 Sensor readings and detection states are also transmitted via **UART**, allowing the data to be visualized using external tools such as Python plotting scripts.
 
 ---
+## Sensor Data Visualization
+
+![Sensor Plot](CG2028_Assignment/sensor_plot.png)
+
+---
 
 # Features
 
